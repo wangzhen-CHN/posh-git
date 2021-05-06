@@ -1,3 +1,9 @@
+# 使用方法
+
+- clone项目
+- ~\PowerShell\7\profile.ps1文件中添加 Import-Module '项目路径\posh-git\src\posh-git.psd1'
+- 重新打开PowerShell
+
 # posh-git
 
 [![Join the chat at https://gitter.im/dahlbyk/posh-git][gitter-img]][gitter]
